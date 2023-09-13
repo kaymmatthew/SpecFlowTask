@@ -1,0 +1,19 @@
+{
+  "UserInfo": {
+    "password": "Brian!23",
+    "days": "10",
+    "month": "January",
+    "year": "1970",
+    "firstName": "Brain",
+    "lastName": "Graham",
+    "company": "Tesco",
+    "address": "14 Loane Street",
+    "address2": "Oxford",
+    "country": "United States",
+    "state": "London",
+    "city": "London",
+    "zipCode": "SE1 4TP",
+    "mobile": "+4412345624",
+    "url": "https://www.automationexercise.com/"
+  } 
+}
